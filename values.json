@@ -1,0 +1,27 @@
+[
+  {
+    "guid": "ed48fb5a-e9a2-4c35-81a0-f07769677ffe",
+    "name": "cherokee",
+    "description": "purple"
+  },
+  {
+    "guid": "f0b52c05-f2e0-4202-b072-4b337264ff32",
+    "name": "zebra",
+    "description": "green"
+  },
+  {
+    "guid": "72f704ed-9979-44ad-8d7c-95a50bd33911",
+    "name": "caspian",
+    "description": "pink"
+  },
+  {
+    "guid": "85f0c7e5-f7d0-4f71-b601-48170e3662c6",
+    "name": "fish",
+    "description": "salmon"
+  },
+  {
+    "guid": "24193d54-edda-4d09-89a8-db10e57e422f",
+    "name": "brandywine",
+    "description": "yellow"
+  }
+]
